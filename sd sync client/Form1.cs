@@ -100,7 +100,7 @@ namespace sd_sync_client
                         { "server", server_input.Text },
                         { "user", user_input.Text },
                         { "pass", pass_input.Text },
-                        { "folder", sync_folder.Text }
+                        { "folder", userdir }
                     };
                     writeSettings(settings);
                     sc.Start();

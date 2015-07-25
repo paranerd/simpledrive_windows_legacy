@@ -12,3 +12,11 @@ c:\users\paranerd\documents\visual studio 2015\Projects\sd sync client\sd sync c
 C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\bin\Debug\sd sync client.exe.config
 C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd sync client.exe
 C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd sync client.pdb
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\bin\Debug\sd sync client.exe
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\bin\Debug\sd sync client.pdb
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\bin\Debug\LogWriterService.exe
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\bin\Debug\LogWriterService.pdb
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd sync client.csprojResolveAssemblyReference.cache
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd_sync_client.Form1.resources
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd_sync_client.Properties.Resources.resources
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd sync client\obj\Debug\sd sync client.csproj.GenerateResource.Cache
