@@ -1,0 +1,16 @@
+﻿Assembly C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.InstallLog
+   assemblypath = C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.exe
+Dienst simpleDrive Sync Client wird installiert...
+Die EventLog-Quelle simpleDrive Sync Client im Protokoll Application wird erstellt...
+Assembly C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.exe wird zurückgesetzt.
+Betroffene Parameter:
+   logtoconsole = 
+   logfile = C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.InstallLog
+   assemblypath = C:\Users\paranerd\Documents\Visual Studio 2015\Projects\sd sync client\sd sync client\bin\Debug\LogWriterService.exe
+Der vorherige Zustand des Ereignisprotokolls für die Quelle simpleDrive Sync Client wird wiederhergestellt.
+Während der Rollbackphase des Installers System.Diagnostics.EventLogInstaller ist eine Ausnahme aufgetreten.
+System.Security.SecurityException: Die Quelle wurde nicht gefunden, aber einige oder alle Ereignisprotokolle konnten nicht durchsucht werden. Protokolle, auf die kein Zugriff möglich war: Security.
+Während der Rollbackphase der Installation ist eine Ausnahme aufgetreten. Diese Ausnahme wird ignoriert, und der Rollback wird fortgesetzt. Der ursprüngliche Zustand des Computers wird jedoch möglicherweise nicht vollständig wiederhergestellt, nachdem der Rollback beendet ist.
