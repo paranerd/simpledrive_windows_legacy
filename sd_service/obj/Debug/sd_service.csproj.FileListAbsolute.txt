@@ -1,0 +1,8 @@
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\obj\Debug\LogWriterService.ProjectInstaller.resources
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\obj\Debug\LogWriterService.Service1.resources
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\obj\Debug\sd_service.csproj.GenerateResource.Cache
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\bin\Debug\sd_service.exe.config
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\bin\Debug\sd_service.exe
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\bin\Debug\sd_service.pdb
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\obj\Debug\sd_service.exe
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\simpledrive_windows\sd_service\obj\Debug\sd_service.pdb

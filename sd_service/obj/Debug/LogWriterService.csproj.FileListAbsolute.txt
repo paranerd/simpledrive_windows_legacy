@@ -1,0 +1,9 @@
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\bin\Debug\LogWriterService.exe.config
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\bin\Debug\LogWriterService.exe
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\bin\Debug\LogWriterService.pdb
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.ProjectInstaller.resources
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.csproj.GenerateResource.Cache
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.exe
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.pdb
+c:\users\paranerd\documents\visual studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.Service1.resources
+C:\Users\paranerd\Documents\Visual Studio 2015\Projects\LogWriterService\LogWriterService\obj\Debug\LogWriterService.csprojResolveAssemblyReference.cache

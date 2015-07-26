@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sd sync client", "sd sync client\sd sync client.csproj", "{3DBACA7E-0B6A-4CE0-B62F-BE614CFA1D78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sd_client", "sd_client\sd_client.csproj", "{A966794F-22C1-4CE5-9E5B-20757D5B25DD}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sd_setup", "sd_setup\sd_setup.vdproj", "{B9D1BC53-0F25-4BC2-967D-6E1BB3E9D63E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sd_service", "sd_service\sd_service.csproj", "{AD88A3E8-2D9E-498E-9BD2-BDDCF9C1CF9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogWriterService", "..\LogWriterService\LogWriterService\LogWriterService.csproj", "{5C30FD36-461B-43DC-BD8F-AB3B7BC1E741}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sd_setup", "sd_setup\sd_setup.vdproj", "{178C4A9C-E8B9-469F-A8A6-88BA43EB62F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,16 +15,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3DBACA7E-0B6A-4CE0-B62F-BE614CFA1D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DBACA7E-0B6A-4CE0-B62F-BE614CFA1D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DBACA7E-0B6A-4CE0-B62F-BE614CFA1D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DBACA7E-0B6A-4CE0-B62F-BE614CFA1D78}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9D1BC53-0F25-4BC2-967D-6E1BB3E9D63E}.Debug|Any CPU.ActiveCfg = Debug
-		{B9D1BC53-0F25-4BC2-967D-6E1BB3E9D63E}.Release|Any CPU.ActiveCfg = Release
-		{5C30FD36-461B-43DC-BD8F-AB3B7BC1E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C30FD36-461B-43DC-BD8F-AB3B7BC1E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C30FD36-461B-43DC-BD8F-AB3B7BC1E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C30FD36-461B-43DC-BD8F-AB3B7BC1E741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A966794F-22C1-4CE5-9E5B-20757D5B25DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A966794F-22C1-4CE5-9E5B-20757D5B25DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A966794F-22C1-4CE5-9E5B-20757D5B25DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A966794F-22C1-4CE5-9E5B-20757D5B25DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD88A3E8-2D9E-498E-9BD2-BDDCF9C1CF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD88A3E8-2D9E-498E-9BD2-BDDCF9C1CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD88A3E8-2D9E-498E-9BD2-BDDCF9C1CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD88A3E8-2D9E-498E-9BD2-BDDCF9C1CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178C4A9C-E8B9-469F-A8A6-88BA43EB62F8}.Debug|Any CPU.ActiveCfg = Debug
+		{178C4A9C-E8B9-469F-A8A6-88BA43EB62F8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
